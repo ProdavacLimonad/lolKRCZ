@@ -1,0 +1,12 @@
+# kept copies of Riot's files, local settings and runtime state
+/orig/
+/text/
+config.json
+product_settings.yaml.bak-*
+*.log
+*.err
+krcz.lock
+__pycache__/
+*.pyc
+.DS_Store
+*.html
