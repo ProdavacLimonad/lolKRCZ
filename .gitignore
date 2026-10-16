@@ -1,8 +1,0 @@
-# generated pages contain Riot's strings: never commit them
-lol-client-glossary*.html
-*glossary*.html
-*.html
-
-__pycache__/
-*.pyc
-.DS_Store
